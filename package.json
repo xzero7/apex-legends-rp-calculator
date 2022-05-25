@@ -1,16 +1,13 @@
 {
-  "name": "nextjs-toolbox",
-  "version": "1.0.0",
-  "author": "Netlify Inc",
+  "name": "apex-legends-rp-calculator",
+  "version": "0.0.1",
+  "author": "Flamezero78 Development",
   "contributors": [
-    "Tara Manicsic",
-    "Prince Wilson",
-    "Charlie Gerard",
-    "Ben Hong"
+    "Alvaro E. Home[xzero7]"
   ],
-  "homepage": "https://github.com/netlify-templates/nextjs-toolbox",
+  "homepage": "https://github.com/xzero7/apex-legends-rp-calculator",
   "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-toolbox/issues"
+    "url": "https://github.com/xzero7/apex-legends-rp-calculator/issues"
   },
   "scripts": {
     "dev": "next dev",
