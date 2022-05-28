@@ -2,6 +2,7 @@ import Head from "next/head";
 import Header from "@components/Header";
 import Footer from "@components/Footer";
 import FeedbackForm from "@components/FeedbackForm";
+import RPCalculator from "@components/RPCalculator";
 import JokeBlock from "@components/JokeBlock";
 
 export default function Home() {
@@ -19,6 +20,8 @@ export default function Home() {
           Below is how you can verify and understand how the RP System Works.
         </p>
         <FeedbackForm />
+        <hr />
+        <RPCalculator />
         <JokeBlock />
       </main>
       <Footer />

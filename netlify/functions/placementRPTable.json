@@ -1,0 +1,42 @@
+{
+    "before-14th": {
+        "placementRP": 0,
+        "baseKP": 1
+    },
+    "13th-12th-11th": {
+        "placementRP": 5,
+        "baseKP": 5
+    },
+    "10th-9th": {
+        "placementRP": 10,
+        "baseKP": 10
+    },
+    "8th-7th": {
+        "placementRP": 20,
+        "baseKP": 12
+    },
+    "6th": {
+        "placementRP": 30,
+        "baseKP": 14
+    },
+    "5th": {
+        "placementRP": 45,
+        "baseKP": 16
+    },
+    "4th": {
+        "placementRP": 55,
+        "baseKP": 18
+    },
+    "3rd": {
+        "placementRP": 70,
+        "baseKP": 20
+    },
+    "2nd": {
+        "placementRP": 95,
+        "baseKP": 23
+    },
+    "1st": {
+        "placementRP": 125,
+        "baseKP": 25
+    }
+}
