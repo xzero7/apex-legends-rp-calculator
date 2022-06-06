@@ -19,7 +19,6 @@ export default function Home() {
         <p className="description">
           Below is how you can verify and understand how the RP System Works.
         </p>
-        <FeedbackForm />
         <hr />
         <RPCalculator />
         <JokeBlock />
