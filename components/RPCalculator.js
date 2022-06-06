@@ -21,7 +21,7 @@ export default function RPCalculator() {
             data-netlify-honeypot="bot-field"
             name="rp-calculator"
             method="POST"
-            action="/success"
+            action="/rp-overview"
         >
             <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2} columns={6}>
