@@ -98,6 +98,9 @@ export const handler = async (event) => {
     calculateBonusRP(playerRank, bonusKP, bonusTeamKP, baseKP)
     
     return {
+        headers: {
+            "Location": "/rp-overview"
+        },
         statusCode: 200,
         body: JSON.stringify("Calculating RP")
     }
